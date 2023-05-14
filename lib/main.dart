@@ -50,7 +50,7 @@ MyApp(this.startWidget);
               elevation: .1,
           )
         ),
-        home:startWidget,
+        home:LoginScreen(),
       ),
     );
   }
